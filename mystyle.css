@@ -1,0 +1,15 @@
+nav li:hover, .accordion-item button:hover
+{
+    background-color: lightgoldenrodyellow;
+    border-radius: 4px;
+}
+#carouselExampleDark img{
+    height: 50vh;
+}
+.accordion-item button{
+    background-color: rgb(228, 252, 226);
+}
+.link-unstyled, .link-unstyled:hover{
+    text-decoration: none;
+    background-color: unset;
+}
