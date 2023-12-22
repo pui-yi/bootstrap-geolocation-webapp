@@ -1,5 +1,5 @@
 # bootstrap-geolocation-webapp
-A toy store web app featured with techniques of Bootstrap and Geolocation. Here is the [URL](https://pui-yi.github.io/bootstrap-geolocation-webapp/) to my web app.
+A toy store web app featured with techniques of Bootstrap and Geolocation. Here is the [URL](index.html) to my web app.
 <br><br>
 
 ## Objective:
