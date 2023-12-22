@@ -18,5 +18,6 @@ The name of the starting page is index.html - this file contains the main conten
 <br><br>
 
 ## Screenshot:
-
-
+<img width="770" alt="Screenshot of the home page of the toy store web app" src="https://github.com/pui-yi/bootstrap-geolocation-webapp/assets/153875169/19694e6b-6c42-49c7-8746-795aee865d71"><br><br>
+<img width="770" alt="Screenshot of the product page of the toy store web app" src="https://github.com/pui-yi/bootstrap-geolocation-webapp/assets/153875169/4f27d555-3d0e-44fe-9378-66e07506a8cd"><br><br>
+<img width="770" alt="Screenshot of the contact page of the toy store web app" src="https://github.com/pui-yi/bootstrap-geolocation-webapp/assets/153875169/da947d0e-793e-40a1-9c4d-da9be35f0cc6">
